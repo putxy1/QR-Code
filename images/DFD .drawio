@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
+  <diagram name="Halaman-1" id="eNe6bS4SfNRkZu26cHSy">
+    <mxGraphModel dx="2032" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="358" as="sourcePoint" />
+            <mxPoint x="430" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="215" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-2" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Murid&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="358" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hocJQMdPyyGzvhcjjk7z-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471" y="191" as="targetPoint" />
+            <mxPoint x="470.9999999999999" y="349" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="470" y="358" />
+              <mxPoint x="470" y="275" />
+              <mxPoint x="471" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-3" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Admin&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="358" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.829;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hocJQMdPyyGzvhcjjk7z-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="118" as="targetPoint" />
+            <mxPoint x="777.9999999999998" y="336" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="778" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-4" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Pembina&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="358" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Aplikasi Pendaftaran dan Pengelolaan&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hocJQMdPyyGzvhcjjk7z-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="160" as="sourcePoint" />
+            <mxPoint x="258" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="258" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-9" value="Mengisi Formulir Pendaftaran" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-16" value="Status Pendaftaran" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="274" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-18" value="Mengelola Data Ekstrakulikuler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="191" as="targetPoint" />
+            <mxPoint x="523" y="358" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="524" y="358" />
+              <mxPoint x="524" y="275" />
+              <mxPoint x="525" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-21" value="Memproses Pendaftaran Siswa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="433" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-23" value="Info Jadwal Eskul Libur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.963;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hocJQMdPyyGzvhcjjk7z-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hocJQMdPyyGzvhcjjk7z-25" value="Jadwal Eksrakulikuler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
